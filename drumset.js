@@ -21,7 +21,6 @@ clapButton.addEventListener('mouseenter', function () {
 kickButton.addEventListener('mouseenter', function () {
   kickNoise.play()
 });
-
 boomButton.addEventListener('click', function () {
   boomNoise.play()
 });
